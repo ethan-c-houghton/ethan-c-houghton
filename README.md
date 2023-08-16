@@ -42,17 +42,5 @@ I'm an outgoing junior Linux engineer at Nclose, a cybersecurity company in Sout
 
 <!-- Add any other creative elements here -->
 
-<script>
-  function showPythonDetails() {
-    document.getElementById('pythonDetails').style.display = 'block';
-  }
-  function showBashDetails() {
-    document.getElementById('bashDetails').style.display = 'block';
-  }
-  function showScrapingDetails() {
-    document.getElementById('scrapingDetails').style.display = 'block';
-  }
-  function showAutomationDetails() {
-    document.getElementById('automationDetails').style.display = 'block';
-  }
-</script>
+```mermaid
+```
