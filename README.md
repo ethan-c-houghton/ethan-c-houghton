@@ -2,7 +2,7 @@
   <h1 align="center">Howdy!</h1>
 </p>
 
-👋 I'm Ethan, a passionate Linux engineer working at Nclose, a leading cybersecurity company in South Africa. I'm 21 years old and on a mission to climb up the ranks by learning fast, completing certifications, and making an impact in the tech world.
+👋 I'm Ethan, a passionate Linux engineer working at Nclose, a leading cybersecurity company in South Africa. I'm 21 years old and on a mission to climb up the ranks and provide value to others by learning, completing certifications, and ultimately making an impact in the tech world.
 
 ### About Me
 - 🧠 Strength: I can focus for long periods, which aids me in tackling complex technical problems.
