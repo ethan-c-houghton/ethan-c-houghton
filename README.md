@@ -1,13 +1,27 @@
-# Howdy, I'm Ethan
-
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" style="width: 50%;" />
+<p>
+  <h1 align="center">Howdy!<br>My name is Ethan</h1>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ethan-creamer-houghton-70132b206/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<p align="center"><strong>Vibing to : 🎧  </strong></p>
 
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31eaxpz5ass3ccpc2g4a2ntezzam&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31eaxpz5ass3ccpc2g4a2ntezzam&redirect=true)
+
+</div>
 
 ---
+
+<h2 align="center">I have experience with:</h2>
 <p align="center">
+
+
 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
@@ -19,32 +33,4 @@
 
 </p>
 
----
-<p align="center">
 
-<span style="display: flex; justify-content: center; align-items: center">
-  <img src="https://readme-jokes.vercel.app/api">
-
-</span>
-</p>
-
----
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
-
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-</p>
-</details>
