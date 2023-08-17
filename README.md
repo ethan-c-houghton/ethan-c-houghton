@@ -2,6 +2,23 @@
   <h1 align="center">Howdy!</h1>
 </p>
 
+👋 I'm Ethan, a passionate Linux engineer working at Nclose, a leading cybersecurity company in South Africa. I'm 21 years old and on a mission to climb up the ranks by learning fast, completing certifications, and making an impact in the tech world.
+
+### About Me
+- 🧠 Strength: I can focus for long periods, which aids me in tackling complex technical problems.
+- 😅 Weakness: I tend to try to do too many things at once; working on that!
+
+### Professional Goals
+- 🚀 Short-term: Getting promoted as quickly as possible (as a result of dedication and hard work).
+- 🌐 Long-term: Creating my own company and launching a business incubator organization, taking care of the automation and security of companies.
+
+### Skills (Currently being worked on)
+- Linux Systems
+- Cybersecurity
+- DevOps
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ethan-creamer-houghton-70132b206/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -17,21 +34,6 @@
 </div>
 
 ---
-
-Hi there! 👋 I'm Ethan, a passionate Linux engineer working at Nclose, a leading cybersecurity company in South Africa. I'm 21 years old and on a mission to climb up the ranks by learning fast, completing certifications, and making an impact in the tech world.
-
-### About Me
-- 🧠 Strength: I can focus for long periods, which aids me in tackling complex technical problems.
-- 😅 Weakness: I tend to try to do too many things at once; working on that!
-
-### Professional Goals
-- 🚀 Short-term: Getting promoted as quickly as possible (as a result of dedication and hard work).
-- 🌐 Long-term: Creating my own company and launching a business incubator organization, taking care of the automation and security of companies.
-
-### Skills (Currently being worked on)
-- Linux Systems
-- Cybersecurity
-- DevOps
 
 ---
 
