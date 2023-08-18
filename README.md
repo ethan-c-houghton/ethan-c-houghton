@@ -28,12 +28,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ethan-creamer-houghton-70132b206/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-<p align="center"><strong>Vibing to : 🎧  </strong></p>
+
+<p align="center"><strong>Listening to : 🎧  </strong></p>
 
 
 <div align="center">
@@ -57,4 +53,9 @@
 
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ethan-creamer-houghton-70132b206/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
