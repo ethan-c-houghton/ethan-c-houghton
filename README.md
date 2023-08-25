@@ -18,15 +18,6 @@
 - DevOps
 
 ---
-<p align="center">
-<a href="https://github.com/ethan-c-houghton/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ethan-c-houghton&rank_icon=github&theme=dark" />
-</a>
-
-
-</p>
-
----
 
 
 <p align="center"><strong>Listening to : 🎧  </strong></p>
