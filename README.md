@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ethan-creamer-houghton-70132b206/">
+  <a href="https://www.linkedin.com/in/ethan-creamer-houghton/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
