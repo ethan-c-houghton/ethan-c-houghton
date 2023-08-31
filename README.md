@@ -10,10 +10,12 @@
 
 ### Professional Goals
 - 🚀 Short-term: Getting promoted as quickly as possible (as a result of dedication and hard work).
-- 🌐 Long-term: Creating my own company and launching a business incubator organization, taking care of the automation and security of companies.
+- 🌐 Long-term: Creating my own company and launching a business incubator organization, taking care of the automation and security for selected companies.
 
 ### Skills (Currently being worked on)
-- Linux Systems
+- Linux
+- Networking
+- Technical Writing
 - Cybersecurity
 - DevOps
 
