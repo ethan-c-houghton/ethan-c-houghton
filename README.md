@@ -1,9 +1,3 @@
-<div align="center">
-<h1></h1>I make and break stuff, fail forward</h1>
-</div>
-
----
-
 
 <p align="center"><strong>Listening to : 🎧  </strong></p>
 
